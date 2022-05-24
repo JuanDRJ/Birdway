@@ -12,6 +12,8 @@ header{
     box-shadow: 0px 30px 40px rgb(255, 255, 255);
     margin-bottom: 0px;
     position:fixed;
+  
+   
 }
 
 .headertext{
@@ -74,6 +76,7 @@ header h3 {
 
 
 /*-----------Main--------------*/
+
 
 body{
    
